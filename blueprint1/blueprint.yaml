@@ -1,0 +1,12 @@
+formatVersion: 1
+inputs:
+  tags:
+    type: object
+resources:
+  Cloud_vSphere_Machine_1:
+    type: Cloud.vSphere.Machine
+    properties:
+      image: ubuntu
+      cpuCount: 1
+      totalMemoryMB: 1024
+
