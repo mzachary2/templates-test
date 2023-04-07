@@ -1,5 +1,5 @@
 name: zachgithubtemplate
-version: 1
+version: 2
 formatVersion: 1
 inputs:
   tags:
@@ -9,6 +9,6 @@ resources:
     type: Cloud.vSphere.Machine
     properties:
       image: ubuntu
-      cpuCount: 1
+      cpuCount: 2
       totalMemoryMB: 1024
 
