@@ -1,3 +1,5 @@
+name: zachgithubtemplate
+version: 1
 formatVersion: 1
 inputs:
   tags:
